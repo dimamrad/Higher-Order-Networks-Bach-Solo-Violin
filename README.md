@@ -1,1 +1,1 @@
-![Demo](InteractiveTwinkleStarEvolution.gif)
+![Demo](InteractiveTwinkleStarEvolution.mov)
